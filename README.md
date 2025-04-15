@@ -14,7 +14,7 @@ All data is stored in a MySQL database and displayed in a neat, user-friendly ta
 - Simple, readable codebase
 
 Contact:
-For any inquiries, problems, or remarks, feel loose to reach out to the developer:
+For any inquiries, problems, or remarks, feel free to reach out to the developer:
 - Emmanuel Tembo  
   Email: immanuel1tembo@gmail.Com  
   Cell: 0972862328 / 0966544858
